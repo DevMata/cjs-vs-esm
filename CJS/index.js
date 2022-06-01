@@ -1,8 +1,6 @@
 const getDate = require("./another-file")
 
-console.log('Today is', getDate())
+console.log(getDate())
 
-console.log(require.resolve('./another-file.js'))
-
-// process.stdin.resume()
-
+// console.log('another-file.js path =>', require.resolve('./another-file.js'))
+// console.log('randomstring path =>', require.resolve('randomstring'))
