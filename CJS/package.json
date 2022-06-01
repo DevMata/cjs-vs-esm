@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Antonio Mata <antonio.mata.sv@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "randomstring": "^1.2.2"
+  }
 }
