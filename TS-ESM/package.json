@@ -1,0 +1,19 @@
+{
+  "name": "ts-esm",
+  "version": "1.0.0",
+  "description": "A common TS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "esm",
+    "ts"
+  ],
+  "author": "Antonio Mata <antonio.mata.sv@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
